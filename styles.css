@@ -1,0 +1,35 @@
+body {
+    font-family: Cambria, serif;
+    background-color: rgb(199, 106, 183);
+  }
+  
+  h1 {
+    text-align: center;
+    background-color:rgb(156, 96, 158);
+  }
+  
+  h2 {
+    color: rgb(17, 11, 24);
+    text-align: center;
+  }
+  
+  table {
+    border: 2px solid rgb(30, 5, 43);
+    width: 650px;
+    margin: 0 auto;
+    background-color: rgb(156,96, 158);
+  }
+  
+  head {
+    background-color: rgb(5, 5, 5);
+  }
+  
+  td {
+    border-top: 1px solid rgb(21, 6, 29);
+  }
+  
+  .code {
+    font-family: monospace;
+    background-color: rgb(156, 96, 158);
+    text-align:left;
+  }
